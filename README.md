@@ -1,9 +1,7 @@
 
 ---
 
-### Name
-
-`Procedural Lexicon Constructor
+### Procedural Lexicon Constructor
 
 ---
 
